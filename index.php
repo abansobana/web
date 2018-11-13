@@ -1,4 +1,7 @@
- <html>
+<?php
+      
+?>
+<html>
 <head>
 <title>Membuat Biodata Sederhana</title>
 </head>
