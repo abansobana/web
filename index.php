@@ -10,7 +10,7 @@
 
 <tr>
 <td rowspan="10" width="100px">
-<img src="POTOS.jpg" width="150px" height="200px" border="5">
+<img src="abans.png" width="150px" height="200px" border="5">
 </td>
 </tr>
 <center>
